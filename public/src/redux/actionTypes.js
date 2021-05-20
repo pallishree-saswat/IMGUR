@@ -1,0 +1,14 @@
+export const SET_IMAGES = 'SET_IMAGES'
+export const TOGGLE_IMAGE_FETCHING_STATE = 'TOGGLE_IMAGE_FETCHING_STATE'
+
+export const LOG_IN = "LOG_IN";
+export const LOG_OUT = "LOG_OUT";
+export const REGISTER = "REGISTER"
+
+export const SET_FAV = 'SET_FAV'
+export const TOGGLE_FAV_FETCHING_STATE = 'TOGGLE_FAV_FETCHING_STATE'
+export const ADD_FAV = 'ADD_FAV'
+export const REMOVE_FAV = 'REMOVE_FAV'
+
+export const SET_PHOTO = 'SET_PHOTO'
+export const TOGGLE_PHOTO_FETCHING_STATE = 'TOGGLE_PHOTO_FETCHING_STATE'

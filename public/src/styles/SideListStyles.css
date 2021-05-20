@@ -1,0 +1,29 @@
+.hovered:hover {
+  background-color: hsla(0, 0%, 92%, 1);
+  cursor: pointer;
+}
+
+.link:hover {
+  cursor: pointer;
+}
+
+.scrollbar {
+  overflow-y: hidden;
+}
+
+.scrollbar:hover {
+  overflow-y: scroll;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 7px;
+  background-color: #f5f5f5;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+}
